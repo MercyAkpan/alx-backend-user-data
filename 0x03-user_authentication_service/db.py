@@ -117,4 +117,3 @@ class DB:
 
         self._session.add(db_user)
         self._session.commit()
-
